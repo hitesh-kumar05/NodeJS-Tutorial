@@ -1,0 +1,8 @@
+//use to copy collection of database to another database
+mongoimport --db mongo-exercies --collection courses --file exercise-data.json --jsonArray
+
+
+//get all the published backend courses,
+//sort them by their name,
+//pick only their name and author,
+//and display them.

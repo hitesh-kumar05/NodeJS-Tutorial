@@ -1,0 +1,5 @@
+//use to copy collection of database to another database
+mongoimport --db mongo-exercies --collection courses --file exercise-data.json --jsonArray
+
+
+//get all the published courses that are $15 or more,or have the word 'by' in their title.

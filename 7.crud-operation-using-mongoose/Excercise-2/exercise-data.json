@@ -1,0 +1,112 @@
+[{
+    "_id": {
+      "$oid": "65d609785d810a2e4c523d7d"
+    },
+    "name": "Node.js Course",
+    "author": "Hitesh",
+    "tags": [
+      "node",
+      "backend"
+    ],
+    "isPublished": true,
+    "date": {
+      "$date": "2024-02-21T14:32:24.280Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65d60d787cd7ebece790fa1a"
+    },
+    "name": "Angular Course",
+    "author": "Hitesh",
+    "tags": [
+      "angular",
+      "frontend"
+    ],
+    "isPublished": true,
+    "date": {
+      "$date": "2024-02-21T14:49:28.617Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65d6e97e011a1ff69a1eeda7"
+    },
+    "name": "Java Course",
+    "author": "Hitesh",
+    "tags": [
+      "angular",
+      "frontend"
+    ],
+    "isPublished": false,
+    "date": {
+      "$date": "2024-02-22T06:28:14.344Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65d70267db692db5bb5cc41a"
+    },
+    "name": "Aspnet Course",
+    "author": "Hitesh",
+    "tags": [
+      "aspnet",
+      "backend"
+    ],
+    "isPublished": true,
+    "date": {
+      "$date": "2024-02-22T08:14:31.478Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65d7028967c8aa1096bf4686"
+    },
+    "name": "Node Course",
+    "author": "Hitesh",
+    "tags": [
+      "node",
+      "backend"
+    ],
+    "isPublished": true,
+    "date": {
+      "$date": "2024-02-22T08:15:05.582Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65d702b39668cc4d5bb2cd2b"
+    },
+    "name": "Node Course",
+    "author": "Hitman",
+    "tags": [
+      "node",
+      "backend"
+    ],
+    "isPublished": false,
+    "date": {
+      "$date": "2024-02-22T08:15:47.360Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65d702cf1954ef552abc5942"
+    },
+    "name": "Express Course",
+    "author": "Hitman",
+    "tags": [
+      "express",
+      "backend"
+    ],
+    "isPublished": false,
+    "date": {
+      "$date": "2024-02-22T08:16:15.171Z"
+    },
+    "__v": 0
+  }]
